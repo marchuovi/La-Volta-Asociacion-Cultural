@@ -1,0 +1,21 @@
+$theme-colors: (
+   
+    "danger": #8506A9,
+    "secondary":  #AAA9A9,
+    "success": #87EA00,
+    "info": #72C402,
+    "warning": #1B1D1F,
+
+
+);
+
+$border-widths: (
+  1: 1px,
+  2: 2px,
+  3: 3px,
+  4: 4px,
+  5: 1rem,
+);
+
+
+@import "~bootstrap/scss/bootstrap";

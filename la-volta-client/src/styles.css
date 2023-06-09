@@ -1,0 +1,70 @@
+@media screen and (max-width: 576px) {
+
+}
+
+.nav-link{
+    margin: 20px;
+}
+
+.swal-button {
+    background-color: red;
+    }
+
+.btn-pagos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.boton-seguent{
+    margin-bottom: 95px !important;
+}
+
+@font-face {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    src: 
+    local('Lucida Sans'),
+    local('Lucida Sans Regular'),
+    local('LucidaSans-Bold'),
+    local('lucidasansdemibold');
+}
+
+h6{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.text-css{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.logo-home{
+    padding-left: -1;
+}
+
+.section-amic{
+    display: flex;
+}
+
+.section-amic-left{
+    width: 30%;
+    height: 70%;
+    margin-left: 20%;
+}
+
+.section-amic-right{
+    width: 30%;
+    height: 70%;
+    /*margin-right: 10%;*/
+}
+
+
+
