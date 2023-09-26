@@ -11,6 +11,6 @@ cd la-volta-api -> para el back<br>
 
 Puedo renombrar las terminales para evitar confusión, para ello, me situo en la terminal > click derecho > Rename.<br>
 
-4- En la terminal del front usar el comenado <span style:bold;>npm start</span><br>
+4- En la terminal del front usar el comenado <span style class="bold">npm start</span><br>
 5- En la terminal del back usar el comenado <span style:bold;>php artisan serve</span><br>
 En ambos casos me dará el acceso al local host para visualizar la app.
