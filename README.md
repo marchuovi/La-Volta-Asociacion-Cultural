@@ -1,7 +1,7 @@
 <h3>La-Volta-Asociacion-Cultural</h3>
 Este es el repositorio que contiene dos repositorios forkeados de la organización La Volta.
 
-NOTA IMPORTANTE.<br>
+NOTA IMPORTANTE;<br>
 Este proyecto tiene dos carpetas, una para el back y otra para el front.<br>
 Al abrir el proyecto en VSC en para ver en Localhost la app, seguir los siguientes pasos:<br>
 1- Abrir XAMPP<br>
